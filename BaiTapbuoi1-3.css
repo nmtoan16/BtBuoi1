@@ -1,0 +1,22 @@
+article{
+	width: 350px;
+	height: 450px;
+	background-color: #DDDDDD;
+
+}
+div{
+	margin-left: 10px;
+}
+a{
+	font-size: 25px;
+	font-weight: bold;
+	color: #333333;
+	overflow: hidden;
+}
+a:hover{
+	color: blue;
+}
+img:hover{
+	transform: scale(1.5);
+	transition: 1s;
+}
